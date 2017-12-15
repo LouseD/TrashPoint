@@ -5,4 +5,4 @@
  * and open the template in the editor.
  */
 
-Testewr iggen
+require_once "/class.database.php";
